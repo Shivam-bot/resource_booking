@@ -16,5 +16,10 @@ Create database in Postgres via PGadmin with user postgres and password as you w
 
 # Step 4:-
 # To run server run the below command:-
-py manage.py runserver 
+py manage.py runserver
+
+# Step 5:-
+# To create superuser:-
+py manage.py createsuperuser
+.Using Admin panel to add resources 
 

@@ -39,6 +39,7 @@ class UserToken(models.Model):
     def __str__(self):
         return self.token
 
+# Add via Admin Panel
 
 class Resources(models.Model):
 
